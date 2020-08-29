@@ -1,3 +1,10 @@
+"""
+Savannah Obregon
+CS 1213
+02/26/16
+Assignment 36
+"""
+
 
 sticks = int(input("Rules:\nPlayers can only pick up to 3 sticks each turn. The player who picks up the last stick loses!\n\nHow many sticks would you like there to be in the pile? Choose a number between 5 and 50: ")) #ask user for how many sticks
 
